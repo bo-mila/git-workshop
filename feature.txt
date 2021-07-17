@@ -1,1 +1,2 @@
 New creature
+New feature too
